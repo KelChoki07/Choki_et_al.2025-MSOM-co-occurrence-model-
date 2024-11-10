@@ -1,8 +1,13 @@
 
+# Publication details                                                                                                          
+# Title: # Anthropogenic and environmental correlates of spatial patterns of co-occurrence of small felids in a montane landscape                                    #
+#                                                    #
+# Authors: Karma Choki, Egil Dröge, Claudio Sillero-Zubiri, David W. Macdonald, Ugyen Penjor                 
+# Journal: Global Ecology and Conservation, Volume 42, 2023                                                  
+# DOI:                                                                                                       
+
 # Multispecies occupancy model for two or more interacting species
 
-setwd("D:/msom_int_script")
-getwd()
 library(unmarked)
 library(AICcmodavg)
 library(dplyr)
