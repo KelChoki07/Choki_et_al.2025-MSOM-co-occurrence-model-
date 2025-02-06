@@ -1,4 +1,13 @@
 
+#   _____  _             _     _          _            _      ___    ___  ___   _____ 
+# / ____|| |           | |   (_)        | |          | |    |__ \  / _ \|__ \ | ____|
+#| |     | |__    ___  | | __ _     ___ | |_    __ _ | |       ) || | | |  ) || |__  
+#| |     | '_ \  / _ \ | |/ /| |   / _ \| __|  / _` || |      / / | | | | / / |___ \ 
+#| |____ | | | || (_) ||   < | |  |  __/| |_  | (_| || | _   / /_ | |_| |/ /_  ___) |
+# \_____||_| |_| \___/ |_|\_\|_|   \___| \__|  \__,_||_|(_) |____| \___/|____||____/ 
+                                                                                     
+                                                                                     
+
 # Publication details                                                                                                          
 # Title: # Anthropogenic and environmental correlates of spatial patterns of co-occurrence of small felids in a montane landscape                                    #
 # Authors: Karma Choki, Egil Dröge, Claudio Sillero-Zubiri, David W. Macdonald, Ugyen Penjor                 
